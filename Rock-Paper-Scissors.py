@@ -9,6 +9,7 @@ second = None
 choices = ["Rock", "Paper", "Scissors"]
 starter = randint(0, 1)
 # set second to alt of starter
+print("Sallad waz hea")
 if starter == 1:
     second = 0
 else:
